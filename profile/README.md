@@ -1,4 +1,4 @@
-![banner](https://raw.githubusercontent.com/zuspec/zuspec.github.io/imgs/ZuspecProjectMap.png)
+![banner](https://raw.githubusercontent.com/zuspec/zuspec.github.io/main/imgs/ZuspecProjectMap.png)
 
 # Zuspec - An Action Relation Level Modeling Framework
 
