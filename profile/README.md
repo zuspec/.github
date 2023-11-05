@@ -1,9 +1,27 @@
 ![banner](https://raw.githubusercontent.com/zuspec/zuspec.github.io/main/imgs/ZuspecProjectMap.png)
 
 # Zuspec - An Action Relation Level Modeling Framework
+Zuspec provides a set of tools for working with action relation level
+(ARL) models, primarily those described using the 
+[Accellera Portable Test and Stimulus (PSS)](https://www.accellera.org/downloads/standards/portable-stimulus) language. ARL models are used today to
+specify system-level tests for digital designs, but they lend themselves
+to many more applications as well. Zuspec has a very modular design to support
+rapidly exploring new applications for this modeling methodology.
+
+## Project Components
+
+### Applications
+
+### Front-Ends
+
+### Core Data Model and Evaluation
+
+### Back-Ends
 
 
-## Hi there 👋
+## Project Status
+Zuspec is under active development, but not yet ready for use. Watch this 
+space for updates on the project's status.
 
 <!--
 
