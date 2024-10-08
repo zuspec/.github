@@ -56,6 +56,9 @@ produce executable representations of ARL models.
 Zuspec is under active development, but not yet ready for use. Watch this 
 space for updates on the project's status.
 
+## Build Status
+![zuspec-arl-dm](https://github.com/zuspec/zuspec-arl-dm/actions/workflows/ci.yml/badge.svg)
+
 <!--
 
 **Here are some ideas to get you started:**
