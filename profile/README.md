@@ -57,7 +57,15 @@ Zuspec is under active development, but not yet ready for use. Watch this
 space for updates on the project's status.
 
 ## Build Status
-![zuspec-arl-dm](https://github.com/zuspec/zuspec-arl-dm/actions/workflows/ci.yml/badge.svg)
+- **zuspec-arl-dm** - ![zuspec-arl-dm](https://github.com/zuspec/zuspec-arl-dm/actions/workflows/ci.yml/badge.svg)
+- **zuspec-arl-eval** - ![zuspec-arl-dm](https://github.com/zuspec/zuspec-arl-eval/actions/workflows/ci.yml/badge.svg)
+- **zuspec-be-sw** - ![zuspec-arl-dm](https://github.com/zuspec/zuspec-be-sw/actions/workflows/ci.yml/badge.svg)
+- **zuspec-cli** - ![zuspec-arl-dm](https://github.com/zuspec/zuspec-cli/actions/workflows/ci.yml/badge.svg)
+- **zuspec-fe-parser** - ![zuspec-arl-dm](https://github.com/zuspec/zuspec-fe-parser/actions/workflows/ci.yml/badge.svg)
+- **zuspec-langserver** - ![zuspec-arl-dm](https://github.com/zuspec/zuspec-langserver/actions/workflows/ci.yml/badge.svg)
+- **zuspec-parser** - ![zuspec-arl-dm](https://github.com/zuspec/zuspec-parser/actions/workflows/ci.yml/badge.svg)
+- **zuspec-py** - ![zuspec-arl-dm](https://github.com/zuspec/zuspec-py/actions/workflows/ci.yml/badge.svg)
+- **zuspec-sv** - ![zuspec-arl-dm](https://github.com/zuspec/zuspec-sv/actions/workflows/ci.yml/badge.svg)
 
 <!--
 
