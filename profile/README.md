@@ -1,4 +1,28 @@
-![banner](https://raw.githubusercontent.com/zuspec/zuspec.github.io/main/imgs/ZuspecProjectMap.png)
+
+# Zuspec: A Multi-Abstraction, Multi-Platform Hardware Modeling Tool
+
+<div class="mermaid">
+graph TD
+    A["User Code(zuspec.dataclasses)"] --> B{"Target"}
+    B -->|Pure Python| C["Executable Python"]
+    B -->|Retargetable| D["Intermediate Representation (IR)"]
+    D --> E["Transform & Manipulate"]
+    E --> Ep["Implement"]
+    Ep --> F["SystemVerilog Behavioral Model"]
+    Ep --> G["SystemVerilog RTL"]
+    Ep --> H["Fast C/C++ Model"]
+    Ep --> I["Static/Formal Model"]
+    
+    style A fill:#5dade2,stroke:#333,stroke-width:2px,color:#000
+    style C fill:#58d68d,stroke:#333,stroke-width:2px,color:#000
+    style D fill:#f39c12,stroke:#333,stroke-width:2px,color:#000
+    style E fill:#f39c12,stroke:#333,stroke-width:2px,color:#000
+    style F fill:#bb8fce,stroke:#333,stroke-width:2px,color:#000
+    style G fill:#bb8fce,stroke:#333,stroke-width:2px,color:#000
+    style H fill:#bb8fce,stroke:#333,stroke-width:2px,color:#000
+    style I fill:#bb8fce,stroke:#333,stroke-width:2px,color:#000
+</div>
+
 
 # Zuspec - An Action Relation Level Modeling Framework
 Zuspec provides a set of tools for working with action relation level
