@@ -1,6 +1,6 @@
 # Zuspec: A Multi-Abstraction, Multi-Platform Hardware Modeling Tool
 
-<div class="mermaid">
+```mermaid
 graph TD
     A["User Code(zuspec.dataclasses)"] --> B{"Target"}
     B -->|Pure Python| C["Executable Python"]
@@ -20,7 +20,7 @@ graph TD
     style G fill:#bb8fce,stroke:#333,stroke-width:2px,color:#000
     style H fill:#bb8fce,stroke:#333,stroke-width:2px,color:#000
     style I fill:#bb8fce,stroke:#333,stroke-width:2px,color:#000
-</div>
+```
 
 A significant portion of the silicon design process is spent making and evaluating
 models. We'd like to model the intended behavior of the design early on and 
